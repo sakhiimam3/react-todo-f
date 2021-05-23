@@ -1,0 +1,36 @@
+.main{
+     width: 700px;
+     margin-top: 70px;
+     height:800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxrECr3ve3x0CKmM9Uq9ISmt3xxOZpmcqkcw&usqp=CAU");
+     background-size: cover;
+     padding-left: 250px;
+     padding-top: 50px;
+
+     
+}
+h1{
+     margin-bottom: 5px;
+     display: inline-block;
+     color: wheat;
+
+}
+h1:hover{
+     background: linear-gradient(rgb(10, 46, 9),black,purple);
+     color: antiquewhite;
+}
+
+.todo-text{
+     color: wheat;
+     margin-top: 10px;
+}
+
+.btn{
+      margin-left: 10px;
+      height: 38px !important;
+      margin-bottom: 5px;
+}
+
+.btns{
+   margin-left: 3px;
+}
